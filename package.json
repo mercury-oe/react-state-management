@@ -1,0 +1,9 @@
+{
+  "name": "react-state-management",
+  "version": "0.0.1",
+  "description": "React state management examples",
+  "main": "index.js",
+  "repository": "git@github.com:mercury-oe/react-state-management.git",
+  "author": "Oleg Ambrosevich <ambrosevichoe@yandex.ru>",
+  "license": "MIT"
+}
