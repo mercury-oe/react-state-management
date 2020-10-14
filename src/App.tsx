@@ -1,7 +1,13 @@
 import React from 'react';
 
+import { AppLayout } from "components/AppLayout";
+
 function App() {
-  return null;
+  return (
+      <AppLayout>
+
+      </AppLayout>
+  );
 }
 
 export default App;
